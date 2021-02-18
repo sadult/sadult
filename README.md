@@ -7,7 +7,7 @@
 
  ‏‏‎ ‎|  ‏‏‎ 
  --- | ---
-![Metrics](https://metrics.lecoq.io/sadult?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FTehran) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=s5jm72vc4cbgmglnss9lytbw6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+![Metrics](https://metrics.lecoq.io/sadult?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FParis) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=s5jm72vc4cbgmglnss9lytbw6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
