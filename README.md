@@ -19,35 +19,28 @@
 
 
 <details>
-  <summary>Q | A</summary>
+  <summary>Q&A</summary>
+
 Q | A
 --- | --- 
-**My Device**  | `HP EliteBook 820`
-**Editor**  | `Atom`
-**Languages**  | `C# , Python , Bash/Batch`
-**Languages I learning** | `Go, Js , C++`
-
+**My Computer**  | `HP EliteBook 820 G1`
+**Editor**  | `Visual Studio Code , Atom`
+**Platforms I develop for** | `Desktop, Web, CLI`
+**Languages I know**  | `Python , C# , Shell-Script ,`
+**Languages I learning** | `Go , JS , PHP , Kotlin`
 
 </details>
 
 
 ```python
-#Modules 
-from colorama import init, Fore
 import os
-# Colors
-init()
-GREEN = Fore.GREEN
-# Code
 os.system('clear')
-print(f'''{GREEN}
+print('''
    _____           _       _ _   
   / ____|         | |     | | |  
  | (___   __ _  __| |_   _| | |_ 
   \___ \ / _` |/ _` | | | | | __|
   ____) | (_| | (_| | |_| | | |_ 
- |_____/ \__,_|\__,_|\__,_|_|\__|
-                                 
-                                 
+ |_____/ \__,_|\__,_|\__,_|_|\__|                           
 ''') 
 ```
