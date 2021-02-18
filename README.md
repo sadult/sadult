@@ -1,8 +1,8 @@
 # [Hello World !](https://mercads.ir)
-![https://t.me/Sadult](https://img.shields.io/badge/Telegram-Mercad-blue)
- ![https://t.me/Nullifier_Agency](https://img.shields.io/badge/Telegram-Channel-lightblue)
-  ![https://mercads.ir/](https://img.shields.io/badge/Official-Website-red)
-   ![https://mercads.ir/](https://img.shields.io/badge/Contact-Me-cyan)
+![https://t.me/Sadult](https://img.shields.io/badge/Telegram-Sadult-blue)
+ ![https://t.me/Nullifier_Agency](https://img.shields.io/badge/Telegram_Channel-@Nullifier_Agency-lightblue)
+  ![https://mercads.ir/](https://img.shields.io/badge/Official_Website-Mercads.ir-red)
+   ![https://mercads.ir/](https://img.shields.io/badge/Birthday-18_Feb-cyan)
     ![Profile views](https://gpvc.arturio.dev/sadult)
 
 
