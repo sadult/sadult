@@ -1,13 +1,13 @@
 <h1 align="center">This is Mercad 👋</h1>
-<h3 align="center">just mercad</h3>
+<h3 align="center">Animal science engineering student at Razi University and former computer engineering student at Sharif University of Technology. Interested in Linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadult&label=Profile%20views&color=0e75b6&style=flat" alt="sadult" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadult" alt="sadult" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
-<a href="https://twitter.com/imnotmercad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imnotmercad" height="30" width="40" /></a>
+<a href="https://x.com/imnotmercad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="imnotmercad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mercvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mercvd" height="30" width="40" /></a>
 <a href="https://instagram.com/mercvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mercvd" height="30" width="40" /></a>
 </p>
