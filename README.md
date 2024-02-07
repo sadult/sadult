@@ -7,6 +7,7 @@
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
+<a href="https://t.me/DEMxN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="DEMxN" height="30" width="40" /></a>
 <a href="https://x.com/imnotmercad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="imnotmercad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mercvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mercvd" height="30" width="40" /></a>
 <a href="https://instagram.com/mercvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mercvd" height="30" width="40" /></a>
