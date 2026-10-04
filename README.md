@@ -668,7 +668,7 @@ It is currently being rewritten into a **one-command install** instead of forty 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-<!-- Auto-filled by .github/workflows/activity.yml — do not edit between these markers. -->
+1. 🚀 Published release [Umbra 1.2.0 — music, in the dark.](https://github.com/sadult/umbra/releases/tag/v1.2.0) in [sadult/umbra](https://github.com/sadult/umbra)
 <!--END_SECTION:activity-->
 
 <details>
