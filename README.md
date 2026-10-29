@@ -722,4 +722,4 @@ Bug report, feature idea, or a project that needs someone who ships the installe
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0813,55:8B5CF6,100:4C1D95&height=140&section=footer" alt="footer"/>
 
-</div> 
+</div>
