@@ -1357,6 +1357,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1378,7 +1383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sadult/dewberry</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍇 Unified secure tunneling for Windows — native SNI spoofing (Shade engine) + Xray/V2Ray with Proxy &amp; TUN modes, in one beautiful dark-themed client.</div>
@@ -1431,7 +1436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sadult/huckleberry</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Record a web form once, then let an AI answer it in a loop. Privacy-first browser extension · 10 AI providers · native sidebar · automatic stall recovery.</div>
@@ -1484,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sadult/elderberry</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍇 A gorgeous terminal AI super-client. One dark TUI for Gemini, ChatGPT, OpenRouter &amp; any OpenAI-compatible endpoint — with a pro proxy manager, live model discovery, and zero browser.</div>
@@ -1537,7 +1542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sadult/ShadeEngine</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows SNI Spoof client with a built-in WinDivert packet-injection engine and a modern PyQt6 interface, shipped as one self-contained executable.</div>
@@ -1599,7 +1604,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2026, 14:07:39 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 14 Nov 2026, 13:21:39 (timezone Asia/Tehran) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
